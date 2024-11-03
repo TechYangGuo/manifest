@@ -4,5 +4,5 @@
            fetch="https://github.com/TechYangGuo" />
   <default revision="master"
            remote="orgin" sync-j="4" />
-  <project path="./" name="manifest" revision="master" />
+  <project path="./" name="manifest" revision="main" />
 </manifest>
