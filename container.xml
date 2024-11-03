@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="manifes"
-           fetch="https://github.com/TechYangGuo/manifest.git" />
+  <remote  name="orgin"
+           fetch="https://github.com/TechYangGuo" />
   <default revision="master"
-           remote="manifest" sync-j="2" />
+           remote="orgin" sync-j="4" />
   <project path="./" name="manifest" revision="master" />
 </manifest>
